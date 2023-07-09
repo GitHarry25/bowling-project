@@ -1,0 +1,5 @@
+Tournament scores
+g: 21
+TEST FOR BLANK: 20
+g: 26
+TEST FOR FULL: 28
